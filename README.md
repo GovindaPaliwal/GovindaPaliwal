@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**GovindaPaliwal/GovindaPaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, Thanks For Watching My Repo Page 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on OTT Platform App and Beacon Device/Technology with smart phone.
+- 🌱 Currently learning Native iOS App development and flutter.
+- 💬 Yupp.. You can ask me about Anything 😄 😄 😄 😄 ...
+- 📫 How to reach me: You can contact me using below social platforms and [gpfreetech.com](https://gpfreetech.com) is my personal blog.
+- Like -> long drive on my bike, i like to write poetry,
+- Always try to being helping hand for someone who need it most....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Social Profile & Portfolio
+
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://govindapaliwal.github.io/)
+[![Mail](https://img.shields.io/badge/-Email%20Me-black?style=for-the-badge&logo=gmail)](mailto:gpfreetech@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/govindapaliwal)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/govinda-paliwal-36a65a38/)
+[![Google Play](https://img.shields.io/badge/-Google%20Play-black?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/dev?id=5136043421363741820)
+
+
+### 📊 Github Statistics
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GovindaPaliwal&count_private=true&show_icons=true&include_all_commits=true" alt="Govinda Paliwal | Stats" />
+  
+ 
